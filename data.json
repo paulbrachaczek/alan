@@ -1,0 +1,147 @@
+{
+  "events": [
+    {
+      "id": 0,
+      "title": "Event title",
+      "date": "2024-06-24T02:37:58 -02:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "sport",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (881) 530-3116",
+      "address": "367 Llama Court, Shepardsville, Pennsylvania, 1925"
+    },
+    {
+      "id": 1,
+      "title": "Event title 2",
+      "date": "2024-06-01T07:55:18 -02:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "zdrowie",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (865) 565-2492",
+      "address": "587 Hinckley Place, Kenmar, Arkansas, 8987"
+    },
+    {
+      "id": 2,
+      "title": "Event title 3",
+      "date": "2024-04-17T05:31:18 -02:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "sport",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (997) 443-3171",
+      "address": "265 Clark Street, Cedarville, North Dakota, 6069"
+    },
+    {
+      "id": 3,
+      "title": "Event title 4",
+      "date": "2024-01-15T06:42:51 -01:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "kultura",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (949) 485-3034",
+      "address": "943 Beaumont Street, Dennard, South Carolina, 5211"
+    },
+    {
+      "id": 4,
+      "title": "Event title 5",
+      "date": "2024-09-05T02:37:23 -02:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "sport",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (924) 547-2331",
+      "address": "965 Kingston Avenue, Conestoga, Alaska, 688"
+    },
+    {
+      "id": 5,
+      "title": "Event title 6",
+      "date": "2024-01-29T09:37:16 -01:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "kultura",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (927) 406-3298",
+      "address": "780 Portal Street, Croom, Nebraska, 2134"
+    },
+    {
+      "id": 6,
+      "title": "Event title 7",
+      "date": "2024-05-28T08:17:43 -02:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "sport",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (844) 424-2552",
+      "address": "882 Irvington Place, Emison, North Carolina, 6660"
+    },
+    {
+      "id": 7,
+      "title": "Event title 8",
+      "date": "2024-09-20T03:35:50 -02:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "zdrowie",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (968) 576-2039",
+      "address": "942 Greenpoint Avenue, Chaparrito, Kansas, 6942"
+    },
+    {
+      "id": 8,
+      "title": "Event title 9",
+      "date": "2024-09-08T11:25:49 -02:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "sport",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (901) 426-3241",
+      "address": "987 Story Court, Gadsden, Kentucky, 6894"
+    },
+    {
+      "id": 9,
+      "title": "Event title 10",
+      "date": "2024-01-25T08:28:11 -01:00",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "zdrowie",
+      "description": "Loren ipsum dolor amet",
+      "email": "mcknightwhite@rubadub.com",
+      "phone": "+1 (810) 576-3704",
+      "address": "925 Front Street, Bluetown, Hawaii, 3363"
+    },
+    {
+      "id": 10,
+      "title": "test",
+      "date": "2024-01-16T23:00:00.000Z",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "health",
+      "email": "11@de.de",
+      "phone": "111222333",
+      "description": "koteklllllsss",
+      "address": "111"
+    },
+    {
+      "id": 11,
+      "title": "piesek",
+      "date": "2024-01-27T03:00:00.000Z",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "health",
+      "email": "22@de.de",
+      "phone": "111111111",
+      "description": "loremwemcwjdj",
+      "address": "koeoe"
+    },
+    {
+      "id": 12,
+      "title": "ptaszek",
+      "date": "2024-01-03T02:00:00.000Z",
+      "picture": "https://loremflickr.com/200/200",
+      "type": "sport",
+      "email": "kk@de.com",
+      "phone": "222222222",
+      "description": "22222222222",
+      "address": "kk2222222"
+    }
+  ]
+}
