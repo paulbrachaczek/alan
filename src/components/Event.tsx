@@ -20,8 +20,8 @@ const EventPage = () => {
 
     return (
         <>
-            <Typography>Wydarzenie {event.title} - {event.id}</Typography>
-            when: {event.date} 
+            <Typography component="h3" variant="h3">{event.title}</Typography>
+            <p>when: {event.date}</p>
             <figure>
               <img src={event.picture} alt={event.title} />
             </figure>

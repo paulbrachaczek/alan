@@ -1,9 +1,4 @@
-// React App
 import { useEffect } from "react";
-// Material-UI Imports
-import Container from "@material-ui/core/Container";
-import Typography from "@material-ui/core/Typography";
-
 import Button from "@material-ui/core/Button";
 import List from "@material-ui/core/List";
 import ListItem from "@material-ui/core/ListItem";
@@ -15,11 +10,6 @@ import { useNavigate } from "react-router-dom";
 import Event from "../models/Event";
 
 const Home = () => {
-  //React Hooks
- // const [todoDescription, setTodoDescription] = useState("");
-
-  //React Redux Hooks
- // const todoList = useSelector((state: RootState) => state);
   useEffect(() => {
     dispatch(fetchEvents())
   }, []);
@@ -27,7 +17,7 @@ const Home = () => {
   const events = useSelector((state: RootState) => state)
   const eventsList: Event[] = events.events as [];
   const navigate = useNavigate();
-  //Rendering
+
   return (
     <List>
       {!events.loading && eventsList.map((event: Event) => (
